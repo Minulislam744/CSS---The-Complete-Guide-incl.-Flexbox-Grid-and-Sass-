@@ -1,0 +1,24 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+main{
+    height: 960px;
+}
+#product-overview {
+    background: #e41f60;
+    height: 35%;
+}
+
+.section-title {
+    color: #0cf048;
+}
+
+#product-overview h1 {
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+
+/* h1 {
+    font-family: sans-serif;
+} */
